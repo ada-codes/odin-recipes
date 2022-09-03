@@ -15,3 +15,11 @@ h1, h2, h3 {
 .start {
     text-align: center;
 }
+
+.title {
+    background-color: #ff7000
+}
+
+h2 {
+    background-color: hsl(40,90%,50%)
+}
